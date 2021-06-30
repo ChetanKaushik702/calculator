@@ -1,5 +1,5 @@
 # CALCULATOR
-This is a basic calculator build as a part of learning **JavaScript**.
+This is a basic calculator built as a part of learning **JavaScript**.
 
 ## Languages used are:
 * HTML 5
